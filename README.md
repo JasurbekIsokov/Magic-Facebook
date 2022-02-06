@@ -1,2 +1,2 @@
 # Magic-Facebook
-<h2>Ushu sayt Facebook saytining Demo versiyasi hisoblanadi . </h2>
+<h2>This site is a Demo version of Facebook. </h2>
