@@ -237,7 +237,7 @@ h1.surname {
 }
 
 .linya {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .write__pgh {
@@ -336,7 +336,7 @@ img.hour {
 
 .hr {
   width: 96%;
-  margin: 8px 10px;
+  margin: 17px 10px;
 }
 
 .like__comentary {
@@ -366,13 +366,12 @@ img.hour {
 }
 
 .line {
-  margin-bottom: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
   flex-wrap: wrap;
-  margin: 20px 0;
+  margin: 5px 0;
 }
 .line img {
   margin: 1px;
